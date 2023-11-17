@@ -1,0 +1,4 @@
+label-studio/pdfs/*
+label-studio/images/*
+!label-studio/pdfs/.gitkeep 
+!label-studio/images/.gitkeep 
